@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**KrutikovDI/KrutikovDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Привет!**
 
-Here are some ideas to get you started:
+Я _Крутиков Даниил_, разработчик на Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Мой стек**
+Windows, Bash, Python, API, PostgreSQL, Git
+
+**Мои работы**
+- Postgresql (https://github.com/KrutikovDI/PostgreSQL-Python)
+- Python (https://github.com/KrutikovDI/Coursework_1_10.02.2023)
+- Python и базы данных (https://github.com/KrutikovDI/Python-and-DB.-ORM)
+- Web-scrapping (https://github.com/KrutikovDI/Web-scrapping)
+- Testing (https://github.com/KrutikovDI/Yandex_API_autotest)
